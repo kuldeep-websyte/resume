@@ -1,0 +1,61 @@
+body {
+  background: url(/less/New\ folder/bg.jpg);
+}
+.intro h3 {
+  font-size: 40px;
+}
+.intro span {
+  font-size: 25px;
+}
+.intro a:link {
+  color: blue;
+}
+.intro a:active {
+  color: yellow;
+}
+.intro a:visited {
+  color: blue;
+}
+.intro a:hover {
+  color: red;
+}
+.career h3 {
+  font-size: 30px;
+}
+.career p {
+  font-size: 25px;
+}
+.academic table {
+  border-collapse: collapse;
+  width: 100%;
+  align-items: center;
+}
+.academic td {
+  border: 2px solid;
+  font-size: 20px;
+}
+.skils h3 {
+  font-size: 30px;
+}
+.skils p {
+  font-size: 25px;
+}
+.factor h3 {
+  font-size: 30px;
+}
+.factor p {
+  font-size: 25px;
+}
+.personal h3 {
+  font-size: 30px;
+}
+.personal p {
+  font-size: 25px;
+}
+.dec p,
+.dec i {
+  font-size: 25px;
+}
+.dec h3 {
+  font-size: 30px;
+}
